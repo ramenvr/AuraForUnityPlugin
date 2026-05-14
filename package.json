@@ -1,0 +1,24 @@
+{
+  "name": "com.ramenvr.aura-unity",
+  "displayName": "Aura for Unity",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "AI assistant for Unity game development.\n\nJoin our Discord: https://discord.gg/cAB94TZWK \n\nWebsite: https://www.tryaura.dev/ \n\nDocs: https://www.tryaura.dev/documentation",
+  "documentationUrl": "https://www.tryaura.dev/documentation",
+  "dependencies": {
+    "com.unity.inputsystem": "1.1.1",
+    "com.unity.cloud.gltfast": "6.12.1"
+  },
+  "keywords": [
+    "aura",
+    "auraforunity",
+    "unity",
+    "copilot",
+    "ai"
+  ],
+  "author": {
+    "name": "Aura",
+    "email": "support@tryaura.dev",
+    "url": "https://www.tryaura.dev/"
+  }
+}
