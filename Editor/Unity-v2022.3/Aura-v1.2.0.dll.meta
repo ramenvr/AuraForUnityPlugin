@@ -1,12 +1,13 @@
 fileFormatVersion: 2
-guid: 064a03d317824c538e353e436c2b0689
+guid: a911f536f5ff43d78b33247221b7025e
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   defineConstraints:
-  - UNITY_6000_3_OR_NEWER
+  - UNITY_2022_3_OR_NEWER
+  - '!UNITY_6000_3_OR_NEWER'
   isPreloaded: 0
   isOverridable: 0
   isExplicitlyReferenced: 0
